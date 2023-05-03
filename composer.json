@@ -5,11 +5,13 @@
             "Asus\\PhpMailer\\": "src/"
         }
     },
+    "require": {
+        "php": "^7.2"
+    },
     "authors": [
         {
             "name": "twenlike",
             "email": "1097959571@qq.com"
         }
-    ],
-    "require": {}
+    ]
 }
