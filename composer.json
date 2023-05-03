@@ -1,10 +1,6 @@
 {
     "name": "twenlike/php-mailer",
-    "autoload": {
-        "psr-4": {
-            "Asus\\PhpMailer\\": "src/"
-        }
-    },
+    "description": "test code",
     "require": {
         "php": "^7.2"
     },
